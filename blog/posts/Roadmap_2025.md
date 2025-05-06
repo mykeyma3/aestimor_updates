@@ -1,7 +1,6 @@
 Aestimor Platform Roadmap
 Purpose
-This roadmap outlines the development milestones of the Aestimor platform as it progresses toward general availability. It provides a high-level view of platform access, functionality, and the expected development framework.
-While internal timelines and proprietary feature specifics remain confidential, this document reflects currently available information and may be updated as development continues.
+This roadmap outlines the development milestones of the Aestimor platform as it progresses toward general availability. It provides a high-level view of platform access, functionality, and the expected development framework. While internal timelines and proprietary feature specifics remain confidential, this document reflects currently available information and may be updated as development continues. 
 
 Platform Context
 Aestimor is being built for professionals in the architecture, engineering, construction (AEC), and lumber and building materials (LBM) industries. These sectors often rely on legacy platforms that fall short of modern performance standards, data practices, and cross-team collaboration needs.
@@ -11,7 +10,7 @@ How to Track Progress
 Ongoing updates are published at:
  https://aestimor.com/app/blog/index.html
 An official RSS feed will be introduced to support real-time access to announcements and release notes.
-Questions can be submitted through the platform’s contact form. Select responses may be anonymized and shared publicly to benefit others with similar inquiries.
+Questions can be submitted to info@aestimor.com. Responses may be anonymized and shared publicly to benefit others with similar inquiries.
 
 Roadmap Overview
 Each development phase builds on the last—expanding capabilities, improving stability, and gradually broadening platform access.
@@ -52,8 +51,7 @@ Access broadens to a wider set of organizations while remaining semi-private.
 
 Phase 4: General Availability (GA)
 Focus: Public access, onboarding, and scale
-Public pricing for tokens and subscriptions
-Defined storage and usage tiers
+Public pricing and defined storage and usage tiers
 Self-service onboarding
 Full support and documentation resources
 
@@ -62,7 +60,7 @@ Aestimor is considered production-ready for supported use cases at this stage.
 Current Participation Options
 To follow or engage with development:
 Join the waitlist (role or intended use case may be submitted optionally)
-Submit questions or feedback via the contact form
+Submit questions or feedback via info@aestimor.com
 Monitor the Updates page; RSS support is forthcoming
 
 Disclaimer
