@@ -8,4 +8,5 @@ We’ve also reinforced the platform’s architecture for scalability and future
 
 As we enter the final months of 2025, our focus is on aligning the platform with real-world demands and preparing for broader adoption. We extend our gratitude to our partners and early testers for their feedback and support.
 
-Thanks as always, and best. The Aestimor Development Team
+Best,
+The Aestimor Development Team
