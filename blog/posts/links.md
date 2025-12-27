@@ -1,0 +1,11 @@
+https://aestimor.com/home/
+https://aestimor.com/solutions/
+https://aestimor.com/app/pricing/
+https://aestimor.com/app/about/
+https://aestimor.com/app/careers/
+https://aestimor.com/app/blog/
+https://aestimor.com/app/contact/
+https://aestimor.com/app/early-access/apply.php
+https://aestimor.com/app/privacy/
+https://aestimor.com/app/cookies/
+https://aestimor.com/auth/login.php
