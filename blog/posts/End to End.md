@@ -1,0 +1,2 @@
+We are developing how large language models are integrated into AI-native applications, defining what that means in practice for the platform. The framework centers on human-in-the-loop, augmented workflows that apply AI safely to production work. Models are deployed on privately hosted infrastructure so we can monitor and control end-to-end interactions with users. Training is targeted to begin in the fall, following the build-out of our hardware stack and training applications.
+Published July 28, 2025 
